@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCF2131TFY")(type "KiCad")(uri "${KIPRJMOD}/libs/PCF2131TFY/PCF2131TFY.kicad_sym")(options "")(descr ""))
+)
